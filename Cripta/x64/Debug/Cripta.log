@@ -1,0 +1,6 @@
+﻿  Cripta.cpp
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(100,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(505,29): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(497,17): warning C4101: f: неиспользованная локальная переменная
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(63): warning C4715: func2: значение возвращается не при всех путях выполнения
+  Cripta.vcxproj -> C:\Users\Bakha\Desktop\programming\Cripta\x64\Debug\Cripta.exe
