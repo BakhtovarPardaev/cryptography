@@ -1,6 +1,19 @@
 ﻿  Cripta.cpp
-C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(100,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(505,29): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
-C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(497,17): warning C4101: f: неиспользованная локальная переменная
-C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(63): warning C4715: func2: значение возвращается не при всех путях выполнения
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(217,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(618,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(624,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(645,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(651,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(754,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(784,49): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(784,49): warning C4244:         with
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(784,49): warning C4244:         [
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(784,49): warning C4244:             _Ty=int
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(784,49): warning C4244:         ]
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(964,29): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(955,17): warning C4101: f: неиспользованная локальная переменная
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(1248,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(1276,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(85): warning C4715: func2: значение возвращается не при всех путях выполнения
+C:\Users\Bakha\Desktop\programming\Cripta\Cripta\Cripta.cpp(124): warning C4715: func5: значение возвращается не при всех путях выполнения
   Cripta.vcxproj -> C:\Users\Bakha\Desktop\programming\Cripta\x64\Debug\Cripta.exe
